@@ -2,8 +2,8 @@
 ### Objectives
 * Understand the overheads involved in file
 operations<br>
-* Understand the overheads involved in file
-operations<br>
+* Exploit kernel primitives to avoid (or to reduce)
+these overheads<br>
 ### Goal
 * Duplicate the file correctly and considerably improve upon Baseline<br>
 ### report
