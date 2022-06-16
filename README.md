@@ -1,4 +1,3 @@
-# NYCU_OS-graduate
 # Fast File Duplication
 ### Objectives
 * Understand the overheads involved in file
